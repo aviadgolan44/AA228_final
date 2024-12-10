@@ -1,2 +1,3 @@
-# AA228_final
-AA 228 Final project, Aviad Golan and Joshua Boisvert 
+## AA 228 Final Project
+### Authors: Aviad Golan, Joshua Boisvert
+### Deep Q-Learning for planning through dynamic, dense environments
